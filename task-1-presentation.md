@@ -2,7 +2,7 @@
 
 <img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/ceac1eca-dcba-4566-a5db-ba0abbfe62a9" />
 
-> "The ability to find, evaluate, and communicate information using digital platforms."
+> "The ability to find, evaluate, and communicate information using digital platforms." 
 
 ---
 
