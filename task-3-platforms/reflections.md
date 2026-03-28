@@ -12,7 +12,7 @@ CodeChef is one of India's most widely used competitive programming platforms, h
 
 | File | Description |
 |------|-------------|
-| `codechef2.png` | Completed beginner challenge with result/score |
+| `codechef-solved-problem.png` | Completed beginner challenge with result/score |
 
 ---
 
