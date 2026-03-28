@@ -12,7 +12,7 @@ CodeChef is one of India's most widely used competitive programming platforms, h
 
 | File | Description |
 |------|-------------|
-| `codechef-challenge.png` | Completed beginner challenge with result/score |
+| `codechef2.png` | Completed beginner challenge with result/score |
 
 ---
 
@@ -30,7 +30,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8c
 4. **(MCQ)** Which platform is primarily used by developers to host and share code?
 5. **(Short Answer)** In your own words, what does "digital literacy" mean and why does it matter for college students today?
 
-**Form Link:** *(paste your Google Form link here)*
+**Form Link:** https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform
 
 ### Screenshots
 
